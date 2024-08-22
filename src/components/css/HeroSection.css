@@ -1,0 +1,20 @@
+.hero {
+    background-color: #00b7c4; /* Blue background */
+    padding: 20px;
+    text-align: center;
+}
+
+.hero-img {
+    max-width: 100%;
+    height: auto;
+}
+
+.play-now-btn {
+    background-color: #FFD700;
+    color: #000;
+    padding: 10px 20px;
+    border: none;
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+}

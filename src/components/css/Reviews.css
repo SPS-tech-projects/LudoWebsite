@@ -1,0 +1,16 @@
+.reviews {
+    background-color: #fff;
+    padding: 50px 20px;
+    color: #000;
+}
+
+.reviews h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.review {
+    margin-bottom: 20px;
+    font-size: 18px;
+    text-align: center;
+}
